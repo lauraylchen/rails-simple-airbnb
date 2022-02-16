@@ -11,3 +11,18 @@
 // Your CSS partials
 @import "components/index";
 @import "pages/index";
+
+.navbar {
+  background-color: lightgrey;
+}
+
+.navbar > a {
+  color: black;
+}
+
+.form {
+  background-color: lightgrey;
+  border-radius: 5px;
+  border: 1px solid grey;
+  padding: 10px
+}
